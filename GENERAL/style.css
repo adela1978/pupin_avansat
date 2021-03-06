@@ -1,7 +1,27 @@
+
+
+section {
+    display: inline-block;
+    width: 220px;
+    padding: 5px 0 5px 5px;
+    border-right: 1.5px rgb(69, 6, 133) solid;
+    margin-bottom: 20px;
+}
+
+aside {
+    display: inline-block;
+    width: 895px;
+    vertical-align:top;
+    padding: 0 20px 0 20px;
+}
+
+
+
+
 header {
     border-bottom: 1.5px solid rgba(21, 12, 29, 0.904);
     color: rgba(21, 1, 36,);
-    text-align: center;
+    text-align : center;
 
 
 }
