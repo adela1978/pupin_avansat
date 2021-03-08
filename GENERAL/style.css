@@ -3,7 +3,7 @@
 section {
     display: inline-block;
     width: 220px;
-    padding: 5px 0 5px 5px;
+    padding: 5px 3px 2px 5px;
     border-right: 1.5px rgb(69, 6, 133) solid;
     margin-bottom: 20px;
 }
@@ -19,7 +19,7 @@ aside {
 
 
 header {
-    border-bottom: 1.5px solid rgba(21, 12, 29, 0.904);
+    border-bottom: 6px solid rgba(21, 12, 29, 0.904);
     color: rgba(21, 1, 36,);
     text-align : center;
 
@@ -31,7 +31,7 @@ body {
     font-style: normal;
     color: rgb(5, 5, 59);
     width: 1200px;
-    margin: 10px auto;
+    margin: 20px auto;
     background-color: rgb(241, 199, 134);
 }
   ul{list-style:square outside;}
